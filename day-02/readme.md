@@ -7,8 +7,14 @@ First of all, what is dependency injection is ? Let's imagine how the car factor
 **inject** word means : **use** that requirements inside the car skeleton  
 So basically **DI**: Outsource the construction and **injection** of your objects to an external entity  
 
-### DI in OOP and in Spring :
+### DI in OOP:
 Dependency injection in object-oriented programming is: A design pattern that allows us to inject an external object(s) inside another object, (if the construction of this object requires this requirement)  
+
+### DI in Spring
 The spring framework offers 2 ways to inject dependencies into the java bean class  
 - Setter Injection  
 - Constructor injector  
+**How it works:**  
+- They start by reading the application context file (only if you used XML configuration, or they will read it, using the way you configured it)
+- Based on the information they found in this file, the spring container will start with the construction of each bean founded
+- And then if the bean needs a dependency, it will look for them in the container and inject them as you configured it
