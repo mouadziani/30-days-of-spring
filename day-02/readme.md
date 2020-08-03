@@ -1,6 +1,6 @@
 ## Day 03 : DI and Spring IOC
 
-**Task**: Covering Dependency injection using spring IOC and XML configuration
+**Task**: Discovering of DI (Dependency injection) using Spring IOC with XML configuration.
 
 ### Introduction to DI:
 First of all, what is dependency injection is ? Let's imagine how the car factory works, as we know that the car is a skeleton that combines a set of parts like (car chairs, engine etc...), So to make it constructed, the car factory needs these parts as requirements, So they start by making these parts, and then they will inject them in the car skeleton  
