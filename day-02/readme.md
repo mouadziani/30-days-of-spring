@@ -1,4 +1,4 @@
-## Day 03 : DI and Spring IOC
+## Day 02 : DI and Spring IOC
 
 **Task**: Discovering of DI (Dependency injection) using Spring IOC with XML configuration.
 
@@ -8,7 +8,7 @@ First of all, what is dependency injection is ? Let's imagine how the car factor
 So basically **DI**: Outsource the construction and **injection** of your objects to an external entity  
 
 ### DI in OOP:
-Dependency injection in object-oriented programming is: A design pattern that allows us to inject an external object(s) inside another object, (if the construction of this object requires this requirement)  
+Dependency injection in object-oriented programming is: A design pattern that allow us to inject an external object(s) inside another object, (if the construction of this object requires this requirement)  
 
 ### DI in Spring
 The spring framework offers 2 ways to inject dependencies into the java bean class  
