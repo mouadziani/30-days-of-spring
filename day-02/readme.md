@@ -17,5 +17,5 @@ The spring framework offers 2 ways to inject dependencies into the java bean cla
 
 **How it works:**  
 - They start by reading the application context file (only if you used XML configuration, or they will read it, using the way you configured it)
-- Based on the information they found in this file, the spring container will start with the construction of each bean founded
+- Based on the information they found in this file, the spring container will start with the construction of each bean founded **(by using java reflexion)**  
 - And then if the bean needs a dependency, it will look for them in the container and inject them as you configured it
