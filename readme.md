@@ -8,4 +8,11 @@ In this challenge, I will follow the [Spring & hibernate](https://www.udemy.com/
 >**Task :** Discovering of IOC (inversion of control) using Spring IOC with XML configuration.  
 >**Code and Notes :** [Day-01-repository](https://github.com/MouadZIANI/30DaysOfSpring/tree/master/day-01)
 
+## Daily logs:
+>`DAY 1` : August 02, 2020  
+>**Task :** Discovering of DI (Dependency injection) using Spring IOC with XML configuration.  
+>**Code and Notes :** [Day-02-repository](https://github.com/MouadZIANI/30DaysOfSpring/tree/master/day-02)
+
+
+
 
