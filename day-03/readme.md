@@ -1,4 +1,4 @@
-## Day 03 : Configure Spring IOC using annotations
+## Day 03 : Configurations of Spring IOC using annotations
 
 **Task**: Discovering how to use java annotations to configure spring IOC.
 

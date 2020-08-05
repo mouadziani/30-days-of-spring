@@ -13,7 +13,7 @@ In this challenge, I will follow the [Spring & hibernate](https://www.udemy.com/
 >**Code and Notes :** [Day-02-repository](https://github.com/MouadZIANI/30DaysOfSpring/tree/master/day-02)
 
 >`DAY 2` : August 05, 2020  
->**Task :** Configuration of Spring IOC using annotations  
+>**Task :** Discovering how to use java annotations to configure spring IOC.  
 >**Code and Notes :** [Day-03-repository](https://github.com/MouadZIANI/30DaysOfSpring/tree/master/day-03)
 
 
