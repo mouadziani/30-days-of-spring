@@ -6,7 +6,7 @@
 There are 3 ways to configure spring :
 - XML config  
 - Annotations  
-- Or just by simple using java codes  
+- Or just by using java classes  
  
 To configure it with annotation you have to follow these steps :  
 - You have to enable annotation config, by adding this tag`<context:component-scan base-package="io.spring.ioc_annotations"/>` in your **applicationContext.xml** file  
