@@ -15,4 +15,4 @@ And I also mentioned that the Spring needs some configurations (to allow auto-in
 - You must firstly add the `applicationContext.xml` file and enable the auto bean scanner on it (you can follow the instructions mentioned in this repo [Day-03-repository](https://github.com/MouadZIANI/30DaysOfSpring/tree/master/day-03)).
 - You should also create your beans and apply the annotation `@Component` to them.
 - Then apply the annotation `@Autowired` on your (constructor, setter or field) that you used to inject your dependencies  
-- Then you use your beans as you want !
+- Then you can use your beans as you want !
