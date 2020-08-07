@@ -16,7 +16,9 @@ In this challenge, I will follow the [Spring & hibernate](https://www.udemy.com/
 >**Task :** Discovering how to use java annotations to configure spring IOC.  
 >**Code and Notes :** [Day-03-repository](https://github.com/MouadZIANI/30DaysOfSpring/tree/master/day-03)
 
-
+>`DAY 4` : August 07, 2020  
+>**Task :** Discovering how to use java annotations to inject dependencies of a given bean automatically.    
+>**Code and Notes :** [Day-04-repository](https://github.com/MouadZIANI/30DaysOfSpring/tree/master/day-04)
 
 
 
